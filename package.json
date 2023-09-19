@@ -1,0 +1,14 @@
+{
+  "name": "export-list",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@0xsequence/indexer": "^1.2.1",
+    "ethers": "5.7.2"
+  }
+}
